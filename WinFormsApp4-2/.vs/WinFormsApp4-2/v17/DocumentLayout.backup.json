@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\winformsapp4-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|solutionrelative:winformsapp4-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|c:\\users\\wenty\\desktop\\winformsapp4-2\\winformsapp4-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|solutionrelative:winformsapp4-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|c:\\users\\wenty\\desktop\\winformsapp4-2\\winformsapp4-2\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|solutionrelative:winformsapp4-2\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|c:\\users\\wenty\\desktop\\winformsapp4-2\\winformsapp4-2\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5EBFD60-2D60-4020-B20C-DE9CD7EF1D89}|WinFormsApp4-2\\WinFormsApp4-2.csproj|solutionrelative:winformsapp4-2\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NodeT.cs",
+              "DocumentMoniker": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\NodeT.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4-2\\NodeT.cs",
+              "ToolTip": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\NodeT.cs",
+              "RelativeToolTip": "WinFormsApp4-2\\NodeT.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:27:45.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BST.cs",
+              "DocumentMoniker": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\BST.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4-2\\BST.cs",
+              "ToolTip": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\BST.cs*",
+              "RelativeToolTip": "WinFormsApp4-2\\BST.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:27:27.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\Form1.cs*",
+              "RelativeToolTip": "WinFormsApp4-2\\Form1.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:27:10.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp4-2\\Form1.cs",
+              "ToolTip": "C:\\Users\\wenty\\Desktop\\WinFormsApp4-2\\WinFormsApp4-2\\Form1.cs [Projekt]*",
+              "RelativeToolTip": "WinFormsApp4-2\\Form1.cs [Projekt]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:26:50.544Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
